@@ -1,0 +1,54 @@
+body {
+  background-color: #F6C63A;
+}
+
+h1 {
+  color: #A5013F;
+  font-family: georgia, verdana;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+}
+
+.maroontext {
+  color: #7D002F;
+  font-family: arial, helvetica;
+  margin-left: 250px;
+  padding-right: 250px;
+}
+
+.greytext {
+  color: grey;
+  font-family: georgia,verdana;
+}
+
+.blacktext {
+  color: black;
+  font-family: georgia,verdana;
+  font-size: 75%
+}
+
+.left {
+  border: 1px solid black;
+  width: 200px;
+  padding: 5px;
+  background-color: #FDEF63;
+  float:left;
+  color: black;
+}
+
+.right {
+  border: 1px solid black;
+  width: 200px;
+  padding: 5px;
+  background-color: #FDEF63;
+  float:right;
+  color: black;
+}
+
+footer {
+  color: #AA8927;
+  margin-top: 280px;
+}
